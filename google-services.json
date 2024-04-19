@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "926477864552",
+    "project_id": "final-exam-84922",
+    "storage_bucket": "final-exam-84922.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926477864552:android:4256339d4abd68848775dd",
+        "android_client_info": {
+          "package_name": "com.google.shoes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB16txwQTXoaNw9k1nTw6p1k9ynbDSNm6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926477864552:android:11d966cbf048a29f8775dd",
+        "android_client_info": {
+          "package_name": "com.recipe.finalexam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB16txwQTXoaNw9k1nTw6p1k9ynbDSNm6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
